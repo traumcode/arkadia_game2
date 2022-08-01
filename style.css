@@ -1,5 +1,5 @@
 html, body {
-	padding: 10px;
+	padding: 0;
 	margin: 0;
 	overflow: hidden;
 	background: black;
@@ -12,12 +12,12 @@ html, body, canvas {
 }
 
 #notSupportedWrap {
-	margin: 2em auto 1em auto;
+	margin: 0;
 	width: 75%;
 	max-width: 45em;
 	border: 1px solid black;
 	border-radius: 1em;
-	padding: 2em;
+	padding: 0;
 	background-color: #f0f0f0;
 	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
 	color: black;
