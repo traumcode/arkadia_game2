@@ -1,7 +1,7 @@
 html, body {
 	padding: 100px;
-	margin: 0;
-	overflow: hidden;
+	margin: 10px;
+	overflow: scroll;
 	
 	background: #000000;
 	color: white;
@@ -14,11 +14,11 @@ html, body, canvas {
 
 #notSupportedWrap {
 	margin: 2em auto 1em auto;
-	width: 75%;
-	max-width: 45em;
+	width: 100%;
+	max-width: 100em;
 	border: 2px solid #aaa;
 	border-radius: 1em;
-	padding: 2em;
+	padding: 12em;
 	background-color: #f0f0f0;
 	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
 	color: black;
